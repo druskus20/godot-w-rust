@@ -246,6 +246,8 @@ edit:
 
 run:
 	make build-x86_64-unknown-linux-gnu-debug
+	rm ./godot/native/libs/* -rf
+	cp ./lib ./godot/native -r
 	godot --path godot/ -d
 
 shell:

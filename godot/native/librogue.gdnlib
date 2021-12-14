@@ -7,6 +7,6 @@ reloadable=true
 
 [entry]
 
-X11.64="res://native/x11/librogue.so"
+X11.64="res://native/lib/x86_64-unknown-linux-gnu/librogue.so"
 Windows.64="res://bin/win64/librogue.dll"
 OSX.64="res://bin/osx/librogue.dylib"
