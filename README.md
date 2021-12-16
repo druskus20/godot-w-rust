@@ -1,5 +1,5 @@
 # godot-w-rust
-Godot with Rust shenannigans
+Godot with Rust shenanigans
 
 ## Problems encountered
 Sadly there seems to be no way to do default parameters with rust, which means
